@@ -1,0 +1,16 @@
+{
+  "name": "check-include",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd child && tsc --build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/eonasdan-bootstrap-datetimepicker": "^4.17.27",
+    "typescript": "^4.0.2"
+  }
+}
